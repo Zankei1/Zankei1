@@ -2,12 +2,13 @@
   <h1 align="center"><b>Hi 👋, i'm Gustavo Soares</b></h1>
 </p>
   
-<p>
+  ### Learning front-end development
+  
+ <p>
   I'm currently focused on learning reactjs.
   I'm also very interested in game development.
 </p>
 
-### Learning front-end development
 *   🌍  I'm based in São Paulo - Brazil
 *   ✉️  You can contact me at [dev.gustavosoares@gmail.com](mailto:dev.gustavosoares@gmail.com) 
 
